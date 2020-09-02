@@ -11,7 +11,7 @@
     "debug": "~2.6.3",
     "express": "~4.15.2",
     "google-auth-library": "^0.12.0",
-    "googleapis": "^20.2.0",
+    "googleapis": "^39.1.0",
     "lodash": "^4.17.5",
     "mongojs": "^2.4.1",
     "morgan": "~1.8.1",
